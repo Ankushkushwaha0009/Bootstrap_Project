@@ -1,0 +1,29 @@
+.navbar-dark {
+    --bs-navbar-color: rgb(254, 254, 254) !important ;  
+    font-weight : 700 ;
+}
+
+html  , body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.ank1{
+
+    height: 400px;
+    width: 99%;
+    
+}
+
+.Si{
+    height: 250px;
+}
+
+.collA{
+
+    background-color: burlywood;
+}
+
+.FW{
+    font-weight: 500;
+}
